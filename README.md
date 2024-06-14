@@ -1,6 +1,6 @@
 ## Hi I'm J.M.!👋
 
-Currently working as a Senior Software Engineer at [solo.io](https://www.solo.io/). I'm interested in cloud native technology and passionate about learning new technology.
+Currently working as a Senior Software Engineer at [solo.io](https://www.solo.io/). I'm interested in cloud native technology and passionate about learning new technology. I'm primarily a Golang developer but also work with python on my own projects.
 
 ![J.M. Huibonhoa's Github Stats](https://github-readme-stats-alpha-hazel.vercel.app/api?username=jmhbh&theme=discord_old_blurple&show=reviews,prs)
 
