@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm J.M.!👋
+
+![J.M. Huibonhoa's Github Stats](https://github-readme-stats-alpha-hazel.vercel.app/api?username=jmhbh&theme=discord_old_blurple&show=reviews,prs)
 
 <!--
 **jmhbh/jmhbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
